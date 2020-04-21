@@ -1,0 +1,3 @@
+birth_year = input('Birth year: ');
+age = 2019 - int(birth_year); # you have to turn the birth_year (a string) into an integer...
+print(age); 
